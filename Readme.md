@@ -4,7 +4,7 @@ This project implements a chatbot that answers questions about GitLab's Handbook
 
 ## Setup
 1. Clone this repository:
-git clone https://github.com/yourusername/gitlab-chatbot.git
+git clone https://github.com/MayankBharati/gitlab-chatbot.git
 cd gitlab-chatbot
 2. Create a virtual environment and install dependencies:
 python -m venv venv
